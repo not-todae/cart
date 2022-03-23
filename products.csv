@@ -1,6 +1,6 @@
 id,name,description,price,image
-1,Orange,Orange Fruit,30,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/220px-Oranges_-_whole-halved-segment.jpg
-2,Apple,Apple Fruit,40,https://media.istockphoto.com/photos/red-apple-picture-id184276818?b=1&k=20&m=184276818&s=170667a&w=0&h=1jiJbUmZdjOPRlfpz7hKexA0XwEPX2b3YCRvamQhWWY=
-3,Mango,Mango Fruit,25,https://images.hindustantimes.com/img/2021/06/02/550x309/9a156550-c367-11eb-9d53-2d5cae187b44_1622619423185.jpg
-4,Banana,Banana Fruit,100,https://images.immediate.co.uk/production/volatile/sites/30/2017/01/Bananas-218094b-scaled.jpg
-5,Watermelon,Watermelon Fruit,200,https://img.onmanorama.com/content/dam/mm/en/food/features/images/2021/2/27/watermelon-seeds.jpg.transform/schema-16x9/image.jpg
+1,RTX 3090,GeForce RTX 3090,88000,https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/ampere/rtx-3090/geforce-rtx-3090-shop-630-d@2x.png
+2,RTX 3080,GeForce RTX 3080,41000,https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/ampere/rtx-3080/geforce-rtx-3080-shop-630-d@2x.png
+3,RTX 3070,GeForce RTX 3070,29500,https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/ampere/rtx-3070/geforce-rtx-3070-shop-630-d@2x.png
+4,RX 6800 XT,AMD Radeon™ RX 6800 XT Graphics,16000,https://www.amd.com/system/files/2021-04/766267-radeon-rx-6800xt-gpus-1260x709.png
+5,RX 6900 XT,AMD Radeon™ RX 6900 XT Graphics,49000,https://www.amd.com/system/files/2020-10/579976-radeon-rx-6000xt-left-angle-1260x709_0.png
